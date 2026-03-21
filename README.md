@@ -1,4 +1,4 @@
-# 🚦 RailGate Kannur — Complete Beginner Guide
+# 🚦 RailGate Kannur 
 ## From Zero to Live Website with Real Train Data
 
 ---
