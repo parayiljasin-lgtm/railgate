@@ -1,0 +1,36 @@
+Train No,Train Name,Type,Source,Destination,Arrival at Kannur,Departure from Kannur,Running Days,Mon,Tue,Wed,Thu,Fri,Sat,Sun
+16608,CBE-CAN Express,Express,Coimbatore,Kannur,21:00,Terminates,Daily,1,1,1,1,1,1,1
+12618,Mangala Lakshadweep,Express,H. Nizamuddin,Ernakulam,00:37,00:40,Daily,1,1,1,1,1,1,1
+22852,Vivek SF Express,SF Express,Mangalore,Santragachi,00:57,01:00,Sun,0,0,0,0,0,0,1
+16334,Veraval Express,Express,Trivandrum,Veraval,01:37,01:40,Tue,0,1,0,0,0,0,0
+16336,Gandhidham Express,Express,Nagercoil,Gandhidham,01:37,01:40,Wed,0,0,1,0,0,0,0
+16338,Ernakulam-Okha Exp,Express,Ernakulam,Okha,01:37,01:40,"Thu, Sat",0,0,0,1,0,1,0
+19259,Kochuveli-Bhavnagar Exp,Express,Kochuveli,Bhavnagar,01:37,01:40,Fri,0,0,0,0,1,0,0
+12484,ASR-KCVL Weekly SF,SF Express,Amritsar,Kochuveli,01:52,01:55,Tue,0,1,0,0,0,0,0
+12218,Kerala Sampark Kranti,SF Express,Chandigarh,Kochuveli,01:52,01:55,"Fri, Sun",0,0,0,0,1,0,1
+22637,West Coast Exp,Express,Chennai Central,Mangalore,02:37,02:40,Daily,1,1,1,1,1,1,1
+12431,Rajdhani Express,Rajdhani,Trivandrum,H. Nizamuddin,03:12,03:15,"Wed, Fri, Sat",0,0,1,0,1,1,0
+12685,MAS-MAQ Superfast,SF Express,Chennai Central,Mangalore,04:37,04:40,Daily,1,1,1,1,1,1,1
+12081,TVC Jan Shatabdi,Shatabdi,Kannur,Trivandrum,Source,04:50,"Mon, Tue, Wed, Thu, Fri, Sat",1,1,1,1,1,1,0
+16604,Maveli Express,Express,Trivandrum,Mangalore,04:55,05:00,Daily,1,1,1,1,1,1,1
+16308,CAN-ALLP Executive Exp,Executive,Kannur,Alappuzha,Source,05:10,Daily,1,1,1,1,1,1,1
+16345,Netravati Express,Express,LTT Mumbai,Trivandrum,06:32,06:35,Daily,1,1,1,1,1,1,1
+16629,Malabar Express,Express,Trivandrum,Mangalore,06:37,06:40,Daily,1,1,1,1,1,1,1
+20631,MAQ-TVC Vande Bharat,Vande Bharat,Mangalore,Trivandrum,07:55,07:57,Daily,1,1,1,1,1,1,1
+16347,Mangalore Express,Express,Trivandrum,Mangalore,07:55,08:00,Daily,1,1,1,1,1,1,1
+22610,Intercity SF Exp,SF Express,Coimbatore,Mangalore,10:42,10:45,Daily,1,1,1,1,1,1,1
+16606,Ernad Express,Express,Trivandrum,Mangalore,14:12,14:15,Daily,1,1,1,1,1,1,1
+06047,CAN-ERS Special,Special,Kannur,Ernakulam,Source,15:40,Mon,1,0,0,0,0,0,0
+16159,MS-MAQ Express,Express,Chennai Egmore,Mangalore,15:47,15:50,Daily,1,1,1,1,1,1,1
+12602,Mangalore Mail,Mail,Mangalore,Chennai Central,15:57,16:00,Daily,1,1,1,1,1,1,1
+12134,MAJN-CSMT Exp,Express,Mangalore,Mumbai CSMT,16:07,16:10,Daily,1,1,1,1,1,1,1
+16348,Trivandrum Exp,Express,Mangalore,Trivandrum,16:52,16:55,Daily,1,1,1,1,1,1,1
+16512,CAN-SBC Express,Express,Kannur,KSR Bengaluru,Source,17:05,Daily,1,1,1,1,1,1,1
+10216,Ernakulam-Madgaon Exp,Express,Ernakulam,Madgaon,17:52,17:55,Mon,1,0,0,0,0,0,0
+16527,Yesvantpur Exp,Express,Kannur,Yesvantpur,Source,18:05,Daily,1,1,1,1,1,1,1
+16650,Parasuram Express,Express,Kanyakumari,Mangalore,18:26,18:29,Daily,1,1,1,1,1,1,1
+16858,MAQ-PDY Express,Express,Mangalore,Puducherry,18:32,18:35,Sun,0,0,0,0,0,0,1
+16630,Malabar Express,Express,Mangalore,Trivandrum,20:50,20:55,Daily,1,1,1,1,1,1,1
+11097,Poorna Express,Express,Pune,Ernakulam,21:17,21:20,Sun,0,0,0,0,0,0,1
+16356,Antyodaya Express,Antyodaya,Mangalore,Kochuveli,21:55,22:00,"Fri, Sun",0,0,0,0,1,0,1
+20632,TVC-MAQ Vande Bharat,Vande Bharat,Trivandrum,Mangalore,22:35,22:38,Daily,1,1,1,1,1,1,1
