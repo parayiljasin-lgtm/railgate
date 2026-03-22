@@ -1,0 +1,2952 @@
+[
+  {
+    "gate_id": "LC-001",
+    "gate_name": "Manjeshwar Town Gate",
+    "railway_section": "Kasaragod–Manjeshwar",
+    "district": "Kasaragod",
+    "latitude": 12.7183,
+    "longitude": 74.8892,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-002",
+    "gate_name": "Manjeshwar North Gate",
+    "railway_section": "Kasaragod–Manjeshwar",
+    "district": "Kasaragod",
+    "latitude": 12.7245,
+    "longitude": 74.8841,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-003",
+    "gate_name": "Manjeshwar South Gate",
+    "railway_section": "Kasaragod–Manjeshwar",
+    "district": "Kasaragod",
+    "latitude": 12.7121,
+    "longitude": 74.8934,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-004",
+    "gate_name": "Kuttikol Road Gate",
+    "railway_section": "Kasaragod–Manjeshwar",
+    "district": "Kasaragod",
+    "latitude": 12.7058,
+    "longitude": 74.9012,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-005",
+    "gate_name": "Uppala Village Gate",
+    "railway_section": "Manjeshwar–Kumbla",
+    "district": "Kasaragod",
+    "latitude": 12.6358,
+    "longitude": 74.9715,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-006",
+    "gate_name": "Uppala North Gate",
+    "railway_section": "Manjeshwar–Kumbla",
+    "district": "Kasaragod",
+    "latitude": 12.6421,
+    "longitude": 74.9668,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-007",
+    "gate_name": "Uppala South Gate",
+    "railway_section": "Manjeshwar–Kumbla",
+    "district": "Kasaragod",
+    "latitude": 12.6291,
+    "longitude": 74.9762,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-008",
+    "gate_name": "Paivalike Road Gate",
+    "railway_section": "Manjeshwar–Kumbla",
+    "district": "Kasaragod",
+    "latitude": 12.6189,
+    "longitude": 74.9841,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-009",
+    "gate_name": "Kumbla Market Gate",
+    "railway_section": "Kumbla–Kasaragod",
+    "district": "Kasaragod",
+    "latitude": 12.5874,
+    "longitude": 74.9988,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-010",
+    "gate_name": "Kumbla North Gate",
+    "railway_section": "Kumbla–Kasaragod",
+    "district": "Kasaragod",
+    "latitude": 12.5941,
+    "longitude": 74.9941,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-011",
+    "gate_name": "Kumbla South Gate",
+    "railway_section": "Kumbla–Kasaragod",
+    "district": "Kasaragod",
+    "latitude": 12.5812,
+    "longitude": 75.0034,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-012",
+    "gate_name": "Mogral Road Gate",
+    "railway_section": "Kumbla–Kasaragod",
+    "district": "Kasaragod",
+    "latitude": 12.5712,
+    "longitude": 75.0098,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-013",
+    "gate_name": "Kasaragod Station Gate",
+    "railway_section": "Kasaragod–Kanhangad",
+    "district": "Kasaragod",
+    "latitude": 12.4996,
+    "longitude": 74.9869,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-014",
+    "gate_name": "Kasaragod North Gate",
+    "railway_section": "Kasaragod–Kanhangad",
+    "district": "Kasaragod",
+    "latitude": 12.5038,
+    "longitude": 74.9821,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-015",
+    "gate_name": "Kasaragod South Gate",
+    "railway_section": "Kasaragod–Kanhangad",
+    "district": "Kasaragod",
+    "latitude": 12.4954,
+    "longitude": 74.9912,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-016",
+    "gate_name": "Chandragiri Bridge Gate",
+    "railway_section": "Kasaragod–Kanhangad",
+    "district": "Kasaragod",
+    "latitude": 12.4712,
+    "longitude": 75.0098,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-017",
+    "gate_name": "Chandragiri North Gate",
+    "railway_section": "Kasaragod–Kanhangad",
+    "district": "Kasaragod",
+    "latitude": 12.4769,
+    "longitude": 75.0054,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-018",
+    "gate_name": "Bekal Fort Road Gate",
+    "railway_section": "Kasaragod–Kanhangad",
+    "district": "Kasaragod",
+    "latitude": 12.3925,
+    "longitude": 75.0378,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-019",
+    "gate_name": "Bekal North Gate",
+    "railway_section": "Kasaragod–Kanhangad",
+    "district": "Kasaragod",
+    "latitude": 12.3991,
+    "longitude": 75.0332,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-020",
+    "gate_name": "Bekal South Gate",
+    "railway_section": "Kasaragod–Kanhangad",
+    "district": "Kasaragod",
+    "latitude": 12.3861,
+    "longitude": 75.0421,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-021",
+    "gate_name": "Pallikere Beach Gate",
+    "railway_section": "Kasaragod–Kanhangad",
+    "district": "Kasaragod",
+    "latitude": 12.3714,
+    "longitude": 75.0843,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-022",
+    "gate_name": "Pallikere North Gate",
+    "railway_section": "Kasaragod–Kanhangad",
+    "district": "Kasaragod",
+    "latitude": 12.3778,
+    "longitude": 75.0798,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-023",
+    "gate_name": "Ajanur Road Gate",
+    "railway_section": "Kasaragod–Kanhangad",
+    "district": "Kasaragod",
+    "latitude": 12.3612,
+    "longitude": 75.0921,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-024",
+    "gate_name": "Kanhangad Town Gate",
+    "railway_section": "Kanhangad–Cheruvathur",
+    "district": "Kasaragod",
+    "latitude": 12.3397,
+    "longitude": 75.1019,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-025",
+    "gate_name": "Kanhangad North Gate",
+    "railway_section": "Kanhangad–Cheruvathur",
+    "district": "Kasaragod",
+    "latitude": 12.3461,
+    "longitude": 75.0974,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-026",
+    "gate_name": "Kanhangad South Gate",
+    "railway_section": "Kanhangad–Cheruvathur",
+    "district": "Kasaragod",
+    "latitude": 12.3331,
+    "longitude": 75.1062,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-027",
+    "gate_name": "Kanhangad East Gate",
+    "railway_section": "Kanhangad–Cheruvathur",
+    "district": "Kasaragod",
+    "latitude": 12.3284,
+    "longitude": 75.1124,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-028",
+    "gate_name": "Madhur Road Gate",
+    "railway_section": "Kanhangad–Cheruvathur",
+    "district": "Kasaragod",
+    "latitude": 12.3218,
+    "longitude": 75.1181,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-029",
+    "gate_name": "Cheruvathur Village Gate",
+    "railway_section": "Kanhangad–Nileshwar",
+    "district": "Kasaragod",
+    "latitude": 12.2598,
+    "longitude": 75.1402,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-030",
+    "gate_name": "Cheruvathur North Gate",
+    "railway_section": "Kanhangad–Nileshwar",
+    "district": "Kasaragod",
+    "latitude": 12.2661,
+    "longitude": 75.1358,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-031",
+    "gate_name": "Cheruvathur South Gate",
+    "railway_section": "Kanhangad–Nileshwar",
+    "district": "Kasaragod",
+    "latitude": 12.2534,
+    "longitude": 75.1448,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-032",
+    "gate_name": "Nileshwar Town Gate",
+    "railway_section": "Nileshwar–Trikaripur",
+    "district": "Kasaragod",
+    "latitude": 12.2535,
+    "longitude": 75.1358,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-033",
+    "gate_name": "Nileshwar North Gate",
+    "railway_section": "Nileshwar–Trikaripur",
+    "district": "Kasaragod",
+    "latitude": 12.2601,
+    "longitude": 75.1314,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-034",
+    "gate_name": "Nileshwar South Gate",
+    "railway_section": "Nileshwar–Trikaripur",
+    "district": "Kasaragod",
+    "latitude": 12.2469,
+    "longitude": 75.1404,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-035",
+    "gate_name": "Nileshwar East Gate",
+    "railway_section": "Nileshwar–Trikaripur",
+    "district": "Kasaragod",
+    "latitude": 12.2412,
+    "longitude": 75.1451,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-036",
+    "gate_name": "Pilicode Road Gate",
+    "railway_section": "Nileshwar–Trikaripur",
+    "district": "Kasaragod",
+    "latitude": 12.2298,
+    "longitude": 75.1531,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-037",
+    "gate_name": "Trikaripur North Gate",
+    "railway_section": "Nileshwar–Trikaripur",
+    "district": "Kasaragod",
+    "latitude": 12.1498,
+    "longitude": 75.1812,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-038",
+    "gate_name": "Trikaripur Town Gate",
+    "railway_section": "Nileshwar–Trikaripur",
+    "district": "Kasaragod",
+    "latitude": 12.1432,
+    "longitude": 75.1862,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-039",
+    "gate_name": "Trikaripur South Gate",
+    "railway_section": "Trikaripur–Payyannur",
+    "district": "Kasaragod",
+    "latitude": 12.1324,
+    "longitude": 75.1921,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-040",
+    "gate_name": "Trikaripur East Gate",
+    "railway_section": "Trikaripur–Payyannur",
+    "district": "Kasaragod",
+    "latitude": 12.1268,
+    "longitude": 75.1978,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-041",
+    "gate_name": "Valiyaparamba Gate",
+    "railway_section": "Trikaripur–Payyannur",
+    "district": "Kasaragod",
+    "latitude": 12.1184,
+    "longitude": 75.2041,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-042",
+    "gate_name": "Vadakara Station Gate",
+    "railway_section": "Vadakara–Quilandy",
+    "district": "Kozhikode",
+    "latitude": 11.5971,
+    "longitude": 75.5943,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-043",
+    "gate_name": "Vadakara North Gate",
+    "railway_section": "Vadakara–Quilandy",
+    "district": "Kozhikode",
+    "latitude": 11.6072,
+    "longitude": 75.5881,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-044",
+    "gate_name": "Vadakara South Gate",
+    "railway_section": "Vadakara–Quilandy",
+    "district": "Kozhikode",
+    "latitude": 11.5872,
+    "longitude": 75.6014,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-045",
+    "gate_name": "Vadakara East Gate",
+    "railway_section": "Vadakara–Quilandy",
+    "district": "Kozhikode",
+    "latitude": 11.5814,
+    "longitude": 75.6078,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-046",
+    "gate_name": "Kuttiadi Road Gate",
+    "railway_section": "Vadakara–Quilandy",
+    "district": "Kozhikode",
+    "latitude": 11.5698,
+    "longitude": 75.6154,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-047",
+    "gate_name": "Iringal Road Gate",
+    "railway_section": "Vadakara–Quilandy",
+    "district": "Kozhikode",
+    "latitude": 11.5204,
+    "longitude": 75.6378,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-048",
+    "gate_name": "Iringal North Gate",
+    "railway_section": "Vadakara–Quilandy",
+    "district": "Kozhikode",
+    "latitude": 11.5271,
+    "longitude": 75.6324,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-049",
+    "gate_name": "Iringal South Gate",
+    "railway_section": "Vadakara–Quilandy",
+    "district": "Kozhikode",
+    "latitude": 11.5138,
+    "longitude": 75.6432,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-050",
+    "gate_name": "Vadakara South Road Gate",
+    "railway_section": "Vadakara–Quilandy",
+    "district": "Kozhikode",
+    "latitude": 11.5572,
+    "longitude": 75.6184,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-051",
+    "gate_name": "Moolad Road Gate",
+    "railway_section": "Vadakara–Quilandy",
+    "district": "Kozhikode",
+    "latitude": 11.5014,
+    "longitude": 75.6512,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-052",
+    "gate_name": "Quilandy Town Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.4402,
+    "longitude": 75.6981,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-053",
+    "gate_name": "Quilandy North Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.4558,
+    "longitude": 75.6914,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-054",
+    "gate_name": "Quilandy South Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.4321,
+    "longitude": 75.7041,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-055",
+    "gate_name": "Koyilandy North Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.4558,
+    "longitude": 75.6934,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-056",
+    "gate_name": "Koyilandy Town Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.4421,
+    "longitude": 75.7021,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-057",
+    "gate_name": "Koyilandy South Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.4248,
+    "longitude": 75.7098,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-058",
+    "gate_name": "Chemancheri Road Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.4098,
+    "longitude": 75.7154,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-059",
+    "gate_name": "Chemancheri North Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.4168,
+    "longitude": 75.7112,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-060",
+    "gate_name": "Panniyankara Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.3984,
+    "longitude": 75.7214,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-061",
+    "gate_name": "Elathur Station Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.3025,
+    "longitude": 75.7598,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-062",
+    "gate_name": "Elathur North Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.3148,
+    "longitude": 75.7534,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-063",
+    "gate_name": "Elathur South Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.2934,
+    "longitude": 75.7641,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-064",
+    "gate_name": "Kadalundi Bridge Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.3312,
+    "longitude": 75.7481,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-065",
+    "gate_name": "Kadalundi North Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.3389,
+    "longitude": 75.7438,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-066",
+    "gate_name": "Feroke North Gate",
+    "railway_section": "Quilandy–Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.3241,
+    "longitude": 75.7524,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-067",
+    "gate_name": "West Hill Gate",
+    "railway_section": "Kozhikode–Feroke",
+    "district": "Kozhikode",
+    "latitude": 11.2724,
+    "longitude": 75.7698,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-068",
+    "gate_name": "West Hill North Gate",
+    "railway_section": "Kozhikode–Feroke",
+    "district": "Kozhikode",
+    "latitude": 11.2798,
+    "longitude": 75.7651,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-069",
+    "gate_name": "Kozhikode North Station Gate",
+    "railway_section": "Kozhikode–Feroke",
+    "district": "Kozhikode",
+    "latitude": 11.2554,
+    "longitude": 75.7781,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-070",
+    "gate_name": "Kozhikode Junction Gate",
+    "railway_section": "Kozhikode–Feroke",
+    "district": "Kozhikode",
+    "latitude": 11.249,
+    "longitude": 75.7801,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-071",
+    "gate_name": "Kozhikode South Gate",
+    "railway_section": "Kozhikode–Feroke",
+    "district": "Kozhikode",
+    "latitude": 11.2384,
+    "longitude": 75.7862,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-072",
+    "gate_name": "Kozhikode Beach Road Gate",
+    "railway_section": "Kozhikode–Feroke",
+    "district": "Kozhikode",
+    "latitude": 11.2318,
+    "longitude": 75.7914,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-073",
+    "gate_name": "Kallai Road Gate",
+    "railway_section": "Kozhikode–Feroke",
+    "district": "Kozhikode",
+    "latitude": 11.2248,
+    "longitude": 75.7971,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-074",
+    "gate_name": "Feroke Bridge Gate",
+    "railway_section": "Kozhikode–Feroke",
+    "district": "Kozhikode",
+    "latitude": 11.1812,
+    "longitude": 75.8148,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-075",
+    "gate_name": "Feroke North Station Gate",
+    "railway_section": "Kozhikode–Feroke",
+    "district": "Kozhikode",
+    "latitude": 11.1891,
+    "longitude": 75.8102,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-076",
+    "gate_name": "Feroke Thana Gate",
+    "railway_section": "Kozhikode–Feroke",
+    "district": "Kozhikode",
+    "latitude": 11.1791,
+    "longitude": 75.8162,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-077",
+    "gate_name": "Feroke South Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Kozhikode",
+    "latitude": 11.1712,
+    "longitude": 75.8218,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-078",
+    "gate_name": "Beypore Harbour Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Kozhikode",
+    "latitude": 11.1591,
+    "longitude": 75.8052,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-079",
+    "gate_name": "Beypore North Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Kozhikode",
+    "latitude": 11.1668,
+    "longitude": 75.8004,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-080",
+    "gate_name": "Beypore South Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Kozhikode",
+    "latitude": 11.1514,
+    "longitude": 75.8098,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-081",
+    "gate_name": "Chaliyam Road Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Kozhikode",
+    "latitude": 11.1531,
+    "longitude": 75.8182,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-082",
+    "gate_name": "Chaliyam North Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Kozhikode",
+    "latitude": 11.1598,
+    "longitude": 75.8138,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-083",
+    "gate_name": "Parappanangadi Town Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Malappuram",
+    "latitude": 11.0532,
+    "longitude": 75.8531,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-084",
+    "gate_name": "Parappanangadi North Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Malappuram",
+    "latitude": 11.0624,
+    "longitude": 75.8479,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-085",
+    "gate_name": "Parappanangadi South Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Malappuram",
+    "latitude": 11.0441,
+    "longitude": 75.8584,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-086",
+    "gate_name": "Parappanangadi East Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Malappuram",
+    "latitude": 11.0378,
+    "longitude": 75.8641,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-087",
+    "gate_name": "Vallikunnu Road Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Malappuram",
+    "latitude": 11.0298,
+    "longitude": 75.8701,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-088",
+    "gate_name": "Tanur Beach Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Malappuram",
+    "latitude": 10.9891,
+    "longitude": 75.8772,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-089",
+    "gate_name": "Tanur North Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Malappuram",
+    "latitude": 10.9981,
+    "longitude": 75.8714,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-090",
+    "gate_name": "Tanur South Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Malappuram",
+    "latitude": 10.9801,
+    "longitude": 75.8831,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-091",
+    "gate_name": "Tanur East Gate",
+    "railway_section": "Feroke–Tirur",
+    "district": "Malappuram",
+    "latitude": 10.9741,
+    "longitude": 75.8878,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-092",
+    "gate_name": "Tirur Town Gate",
+    "railway_section": "Tirur–Kuttippuram",
+    "district": "Malappuram",
+    "latitude": 10.9144,
+    "longitude": 75.9212,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-093",
+    "gate_name": "Tirur North Gate",
+    "railway_section": "Tirur–Kuttippuram",
+    "district": "Malappuram",
+    "latitude": 10.9241,
+    "longitude": 75.9141,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-094",
+    "gate_name": "Tirur South Gate",
+    "railway_section": "Tirur–Kuttippuram",
+    "district": "Malappuram",
+    "latitude": 10.9048,
+    "longitude": 75.9282,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-095",
+    "gate_name": "Tirur East Gate",
+    "railway_section": "Tirur–Kuttippuram",
+    "district": "Malappuram",
+    "latitude": 10.8981,
+    "longitude": 75.9342,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-096",
+    "gate_name": "Tirur West Gate",
+    "railway_section": "Tirur–Kuttippuram",
+    "district": "Malappuram",
+    "latitude": 10.8924,
+    "longitude": 75.9398,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-097",
+    "gate_name": "Kuttippuram Bridge Gate",
+    "railway_section": "Tirur–Kuttippuram",
+    "district": "Malappuram",
+    "latitude": 10.8714,
+    "longitude": 75.9441,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-098",
+    "gate_name": "Kuttippuram North Gate",
+    "railway_section": "Tirur–Kuttippuram",
+    "district": "Malappuram",
+    "latitude": 10.8789,
+    "longitude": 75.9388,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-099",
+    "gate_name": "Kuttippuram South Gate",
+    "railway_section": "Kuttippuram–Shoranur",
+    "district": "Malappuram",
+    "latitude": 10.8641,
+    "longitude": 75.9501,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-100",
+    "gate_name": "Tirur Road Crossing Gate",
+    "railway_section": "Kuttippuram–Shoranur",
+    "district": "Malappuram",
+    "latitude": 10.8571,
+    "longitude": 75.9558,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-101",
+    "gate_name": "Ponnani Road Gate",
+    "railway_section": "Kuttippuram–Shoranur",
+    "district": "Malappuram",
+    "latitude": 10.7762,
+    "longitude": 75.9241,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-102",
+    "gate_name": "Ponnani North Gate",
+    "railway_section": "Kuttippuram–Shoranur",
+    "district": "Malappuram",
+    "latitude": 10.7841,
+    "longitude": 75.9184,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-103",
+    "gate_name": "Ponnani South Gate",
+    "railway_section": "Kuttippuram–Shoranur",
+    "district": "Malappuram",
+    "latitude": 10.7684,
+    "longitude": 75.9298,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-104",
+    "gate_name": "Edappal Road Gate",
+    "railway_section": "Kuttippuram–Shoranur",
+    "district": "Malappuram",
+    "latitude": 10.7814,
+    "longitude": 76.0121,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-105",
+    "gate_name": "Nilambur Town Gate",
+    "railway_section": "Nilambur–Angadippuram",
+    "district": "Malappuram",
+    "latitude": 11.2781,
+    "longitude": 76.2298,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-106",
+    "gate_name": "Nilambur North Gate",
+    "railway_section": "Nilambur–Angadippuram",
+    "district": "Malappuram",
+    "latitude": 11.2858,
+    "longitude": 76.2241,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-107",
+    "gate_name": "Nilambur South Gate",
+    "railway_section": "Nilambur–Angadippuram",
+    "district": "Malappuram",
+    "latitude": 11.2652,
+    "longitude": 76.2384,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-108",
+    "gate_name": "Nilambur East Gate",
+    "railway_section": "Nilambur–Angadippuram",
+    "district": "Malappuram",
+    "latitude": 11.2574,
+    "longitude": 76.2448,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-109",
+    "gate_name": "Vaniyambalam Gate",
+    "railway_section": "Angadippuram–Shoranur",
+    "district": "Malappuram",
+    "latitude": 11.2098,
+    "longitude": 76.2614,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-110",
+    "gate_name": "Vaniyambalam North Gate",
+    "railway_section": "Angadippuram–Shoranur",
+    "district": "Malappuram",
+    "latitude": 11.2178,
+    "longitude": 76.2558,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-111",
+    "gate_name": "Angadippuram Station Gate",
+    "railway_section": "Angadippuram–Shoranur",
+    "district": "Malappuram",
+    "latitude": 11.0701,
+    "longitude": 76.2101,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-112",
+    "gate_name": "Angadippuram North Gate",
+    "railway_section": "Angadippuram–Shoranur",
+    "district": "Malappuram",
+    "latitude": 11.0784,
+    "longitude": 76.2048,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-113",
+    "gate_name": "Angadippuram South Gate",
+    "railway_section": "Angadippuram–Shoranur",
+    "district": "Malappuram",
+    "latitude": 11.0618,
+    "longitude": 76.2158,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-114",
+    "gate_name": "Perinthalmanna Road Gate",
+    "railway_section": "Angadippuram–Shoranur",
+    "district": "Malappuram",
+    "latitude": 10.9774,
+    "longitude": 76.2241,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-115",
+    "gate_name": "Shoranur Junction Gate",
+    "railway_section": "Shoranur–Pattambi",
+    "district": "Palakkad",
+    "latitude": 10.7668,
+    "longitude": 76.2831,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-116",
+    "gate_name": "Shoranur North Gate",
+    "railway_section": "Shoranur–Pattambi",
+    "district": "Palakkad",
+    "latitude": 10.7752,
+    "longitude": 76.2781,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-117",
+    "gate_name": "Shoranur South Gate",
+    "railway_section": "Shoranur–Pattambi",
+    "district": "Palakkad",
+    "latitude": 10.7584,
+    "longitude": 76.2881,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-118",
+    "gate_name": "Shoranur East Gate",
+    "railway_section": "Shoranur–Pattambi",
+    "district": "Palakkad",
+    "latitude": 10.7521,
+    "longitude": 76.2938,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-119",
+    "gate_name": "Pattambi Town Gate",
+    "railway_section": "Shoranur–Pattambi",
+    "district": "Palakkad",
+    "latitude": 10.8052,
+    "longitude": 76.1921,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-120",
+    "gate_name": "Pattambi North Gate",
+    "railway_section": "Shoranur–Pattambi",
+    "district": "Palakkad",
+    "latitude": 10.8141,
+    "longitude": 76.1868,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-121",
+    "gate_name": "Pattambi South Gate",
+    "railway_section": "Pattambi–Ottapalam",
+    "district": "Palakkad",
+    "latitude": 10.7951,
+    "longitude": 76.1984,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-122",
+    "gate_name": "Pattambi East Gate",
+    "railway_section": "Pattambi–Ottapalam",
+    "district": "Palakkad",
+    "latitude": 10.7881,
+    "longitude": 76.2048,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-123",
+    "gate_name": "Lakkidi Road Gate",
+    "railway_section": "Pattambi–Ottapalam",
+    "district": "Palakkad",
+    "latitude": 10.7812,
+    "longitude": 76.2114,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-124",
+    "gate_name": "Ottapalam Station Gate",
+    "railway_section": "Pattambi–Ottapalam",
+    "district": "Palakkad",
+    "latitude": 10.7724,
+    "longitude": 76.3791,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-125",
+    "gate_name": "Ottapalam North Gate",
+    "railway_section": "Pattambi–Ottapalam",
+    "district": "Palakkad",
+    "latitude": 10.7798,
+    "longitude": 76.3734,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-126",
+    "gate_name": "Ottapalam South Gate",
+    "railway_section": "Ottapalam–Shornur",
+    "district": "Palakkad",
+    "latitude": 10.7648,
+    "longitude": 76.3848,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-127",
+    "gate_name": "Perinthalmanna Link Gate",
+    "railway_section": "Ottapalam–Shornur",
+    "district": "Palakkad",
+    "latitude": 10.7574,
+    "longitude": 76.3912,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-128",
+    "gate_name": "Palakkad Junction Gate",
+    "railway_section": "Palakkad–Kanjikode",
+    "district": "Palakkad",
+    "latitude": 10.7774,
+    "longitude": 76.6554,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-129",
+    "gate_name": "Palakkad North Gate",
+    "railway_section": "Palakkad–Kanjikode",
+    "district": "Palakkad",
+    "latitude": 10.7842,
+    "longitude": 76.6481,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-130",
+    "gate_name": "Palakkad South Gate",
+    "railway_section": "Palakkad–Kanjikode",
+    "district": "Palakkad",
+    "latitude": 10.7698,
+    "longitude": 76.6621,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-131",
+    "gate_name": "Palakkad East Gate",
+    "railway_section": "Palakkad–Kanjikode",
+    "district": "Palakkad",
+    "latitude": 10.7621,
+    "longitude": 76.6691,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-132",
+    "gate_name": "Sultanpet Road Gate",
+    "railway_section": "Palakkad–Kanjikode",
+    "district": "Palakkad",
+    "latitude": 10.7548,
+    "longitude": 76.6758,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-133",
+    "gate_name": "Kanjikode Industrial Gate",
+    "railway_section": "Palakkad–Kanjikode",
+    "district": "Palakkad",
+    "latitude": 10.7562,
+    "longitude": 76.7001,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-134",
+    "gate_name": "Kanjikode North Gate",
+    "railway_section": "Palakkad–Kanjikode",
+    "district": "Palakkad",
+    "latitude": 10.7638,
+    "longitude": 76.6941,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-135",
+    "gate_name": "Kanjikode South Gate",
+    "railway_section": "Kanjikode–Walayar",
+    "district": "Palakkad",
+    "latitude": 10.7488,
+    "longitude": 76.7068,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-136",
+    "gate_name": "Kanjikode East Gate",
+    "railway_section": "Kanjikode–Walayar",
+    "district": "Palakkad",
+    "latitude": 10.7418,
+    "longitude": 76.7138,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-137",
+    "gate_name": "Walayar Checkpoint Gate",
+    "railway_section": "Kanjikode–Walayar",
+    "district": "Palakkad",
+    "latitude": 10.7492,
+    "longitude": 76.8672,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-138",
+    "gate_name": "Walayar North Gate",
+    "railway_section": "Kanjikode–Walayar",
+    "district": "Palakkad",
+    "latitude": 10.7568,
+    "longitude": 76.8614,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-139",
+    "gate_name": "Walayar South Gate",
+    "railway_section": "Kanjikode–Walayar",
+    "district": "Palakkad",
+    "latitude": 10.7418,
+    "longitude": 76.8731,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-140",
+    "gate_name": "Mannarkkad Road Gate",
+    "railway_section": "Palakkad–Shoranur",
+    "district": "Palakkad",
+    "latitude": 10.9982,
+    "longitude": 76.4714,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-141",
+    "gate_name": "Mannarkkad North Gate",
+    "railway_section": "Palakkad–Shoranur",
+    "district": "Palakkad",
+    "latitude": 11.0058,
+    "longitude": 76.4658,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-142",
+    "gate_name": "Chittur Road Gate",
+    "railway_section": "Palakkad–Shoranur",
+    "district": "Palakkad",
+    "latitude": 10.7124,
+    "longitude": 76.7434,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-143",
+    "gate_name": "Nenmara Gate",
+    "railway_section": "Palakkad–Shoranur",
+    "district": "Palakkad",
+    "latitude": 10.6981,
+    "longitude": 76.6841,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-144",
+    "gate_name": "Alathur Station Gate",
+    "railway_section": "Palakkad–Shoranur",
+    "district": "Palakkad",
+    "latitude": 10.7284,
+    "longitude": 76.5548,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-145",
+    "gate_name": "Thrissur Station Gate",
+    "railway_section": "Thrissur–Irinjalakuda",
+    "district": "Thrissur",
+    "latitude": 10.5278,
+    "longitude": 76.2142,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-146",
+    "gate_name": "Thrissur North Gate",
+    "railway_section": "Shoranur–Thrissur",
+    "district": "Thrissur",
+    "latitude": 10.5362,
+    "longitude": 76.2081,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-147",
+    "gate_name": "Thrissur South Gate",
+    "railway_section": "Thrissur–Irinjalakuda",
+    "district": "Thrissur",
+    "latitude": 10.5181,
+    "longitude": 76.2198,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-148",
+    "gate_name": "Thrissur East Gate",
+    "railway_section": "Thrissur–Irinjalakuda",
+    "district": "Thrissur",
+    "latitude": 10.5114,
+    "longitude": 76.2258,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-149",
+    "gate_name": "Ollur Village Gate",
+    "railway_section": "Thrissur–Irinjalakuda",
+    "district": "Thrissur",
+    "latitude": 10.5034,
+    "longitude": 76.2281,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-150",
+    "gate_name": "Ollur North Gate",
+    "railway_section": "Thrissur–Irinjalakuda",
+    "district": "Thrissur",
+    "latitude": 10.5098,
+    "longitude": 76.2234,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-151",
+    "gate_name": "Ollur South Gate",
+    "railway_section": "Thrissur–Irinjalakuda",
+    "district": "Thrissur",
+    "latitude": 10.4968,
+    "longitude": 76.2328,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-152",
+    "gate_name": "Wadakkanchery Road Gate",
+    "railway_section": "Thrissur–Irinjalakuda",
+    "district": "Thrissur",
+    "latitude": 10.4884,
+    "longitude": 76.2391,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-153",
+    "gate_name": "Irinjalakuda Town Gate",
+    "railway_section": "Thrissur–Irinjalakuda",
+    "district": "Thrissur",
+    "latitude": 10.3432,
+    "longitude": 76.2121,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-154",
+    "gate_name": "Irinjalakuda North Gate",
+    "railway_section": "Thrissur–Irinjalakuda",
+    "district": "Thrissur",
+    "latitude": 10.3521,
+    "longitude": 76.2068,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-155",
+    "gate_name": "Irinjalakuda South Gate",
+    "railway_section": "Irinjalakuda–Aluva",
+    "district": "Thrissur",
+    "latitude": 10.3341,
+    "longitude": 76.2178,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-156",
+    "gate_name": "Irinjalakuda East Gate",
+    "railway_section": "Irinjalakuda–Aluva",
+    "district": "Thrissur",
+    "latitude": 10.3271,
+    "longitude": 76.2238,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-157",
+    "gate_name": "Mukundapuram Road Gate",
+    "railway_section": "Irinjalakuda–Aluva",
+    "district": "Thrissur",
+    "latitude": 10.3188,
+    "longitude": 76.2301,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-158",
+    "gate_name": "Chalakudy River Gate",
+    "railway_section": "Irinjalakuda–Aluva",
+    "district": "Thrissur",
+    "latitude": 10.3038,
+    "longitude": 76.3314,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-159",
+    "gate_name": "Chalakudy North Gate",
+    "railway_section": "Irinjalakuda–Aluva",
+    "district": "Thrissur",
+    "latitude": 10.3121,
+    "longitude": 76.3258,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-160",
+    "gate_name": "Chalakudy South Gate",
+    "railway_section": "Irinjalakuda–Aluva",
+    "district": "Thrissur",
+    "latitude": 10.2931,
+    "longitude": 76.3381,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-161",
+    "gate_name": "Chalakudy Town Gate",
+    "railway_section": "Irinjalakuda–Aluva",
+    "district": "Thrissur",
+    "latitude": 10.2858,
+    "longitude": 76.3441,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-162",
+    "gate_name": "Kodungallur Road Gate",
+    "railway_section": "Irinjalakuda–Aluva",
+    "district": "Thrissur",
+    "latitude": 10.2314,
+    "longitude": 76.1981,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-163",
+    "gate_name": "Guruvayur Temple Gate",
+    "railway_section": "Thrissur–Guruvayur",
+    "district": "Thrissur",
+    "latitude": 10.5951,
+    "longitude": 76.0441,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-164",
+    "gate_name": "Guruvayur North Gate",
+    "railway_section": "Thrissur–Guruvayur",
+    "district": "Thrissur",
+    "latitude": 10.6034,
+    "longitude": 76.0384,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-165",
+    "gate_name": "Guruvayur South Gate",
+    "railway_section": "Thrissur–Guruvayur",
+    "district": "Thrissur",
+    "latitude": 10.5868,
+    "longitude": 76.0498,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-166",
+    "gate_name": "Guruvayur East Gate",
+    "railway_section": "Thrissur–Guruvayur",
+    "district": "Thrissur",
+    "latitude": 10.5798,
+    "longitude": 76.0558,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-167",
+    "gate_name": "Punnayurkulam Gate",
+    "railway_section": "Thrissur–Guruvayur",
+    "district": "Thrissur",
+    "latitude": 10.6281,
+    "longitude": 76.0251,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-168",
+    "gate_name": "Punnayurkulam North Gate",
+    "railway_section": "Thrissur–Guruvayur",
+    "district": "Thrissur",
+    "latitude": 10.6361,
+    "longitude": 76.0198,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-169",
+    "gate_name": "Kunnamkulam Town Gate",
+    "railway_section": "Thrissur–Guruvayur",
+    "district": "Thrissur",
+    "latitude": 10.6521,
+    "longitude": 76.0681,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-170",
+    "gate_name": "Kunnamkulam North Gate",
+    "railway_section": "Thrissur–Guruvayur",
+    "district": "Thrissur",
+    "latitude": 10.6601,
+    "longitude": 76.0624,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-171",
+    "gate_name": "Kunnamkulam South Gate",
+    "railway_section": "Thrissur–Guruvayur",
+    "district": "Thrissur",
+    "latitude": 10.6441,
+    "longitude": 76.0738,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-172",
+    "gate_name": "Pudukad Road Gate",
+    "railway_section": "Shoranur–Thrissur",
+    "district": "Thrissur",
+    "latitude": 10.4184,
+    "longitude": 76.2514,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-173",
+    "gate_name": "Mala Road Gate",
+    "railway_section": "Shoranur–Thrissur",
+    "district": "Thrissur",
+    "latitude": 10.4518,
+    "longitude": 76.2341,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-174",
+    "gate_name": "Thalappilly Gate",
+    "railway_section": "Shoranur–Thrissur",
+    "district": "Thrissur",
+    "latitude": 10.4884,
+    "longitude": 76.2194,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-175",
+    "gate_name": "Aluva Station Gate",
+    "railway_section": "Aluva–Ernakulam",
+    "district": "Ernakulam",
+    "latitude": 10.1068,
+    "longitude": 76.3541,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-176",
+    "gate_name": "Aluva North Gate",
+    "railway_section": "Angamaly–Aluva",
+    "district": "Ernakulam",
+    "latitude": 10.1152,
+    "longitude": 76.3492,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-177",
+    "gate_name": "Aluva South Gate",
+    "railway_section": "Aluva–Ernakulam",
+    "district": "Ernakulam",
+    "latitude": 10.0981,
+    "longitude": 76.3581,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-178",
+    "gate_name": "Aluva East Gate",
+    "railway_section": "Aluva–Ernakulam",
+    "district": "Ernakulam",
+    "latitude": 10.0914,
+    "longitude": 76.3641,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-179",
+    "gate_name": "Aluva West Gate",
+    "railway_section": "Aluva–Ernakulam",
+    "district": "Ernakulam",
+    "latitude": 10.0848,
+    "longitude": 76.3698,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-180",
+    "gate_name": "Angamaly Town Gate",
+    "railway_section": "Angamaly–Aluva",
+    "district": "Ernakulam",
+    "latitude": 10.1958,
+    "longitude": 76.3851,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-181",
+    "gate_name": "Angamaly North Gate",
+    "railway_section": "Angamaly–Aluva",
+    "district": "Ernakulam",
+    "latitude": 10.2041,
+    "longitude": 76.3798,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-182",
+    "gate_name": "Angamaly South Gate",
+    "railway_section": "Angamaly–Aluva",
+    "district": "Ernakulam",
+    "latitude": 10.1851,
+    "longitude": 76.3914,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-183",
+    "gate_name": "Angamaly East Gate",
+    "railway_section": "Angamaly–Aluva",
+    "district": "Ernakulam",
+    "latitude": 10.1781,
+    "longitude": 76.3978,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-184",
+    "gate_name": "Periyar Bridge Gate",
+    "railway_section": "Angamaly–Aluva",
+    "district": "Ernakulam",
+    "latitude": 10.1698,
+    "longitude": 76.4041,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-185",
+    "gate_name": "Kalamassery Road Gate",
+    "railway_section": "Aluva–Ernakulam",
+    "district": "Ernakulam",
+    "latitude": 10.0524,
+    "longitude": 76.3184,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-186",
+    "gate_name": "Kalamassery North Gate",
+    "railway_section": "Aluva–Ernakulam",
+    "district": "Ernakulam",
+    "latitude": 10.0601,
+    "longitude": 76.3128,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-187",
+    "gate_name": "Kalamassery South Gate",
+    "railway_section": "Aluva–Ernakulam",
+    "district": "Ernakulam",
+    "latitude": 10.0448,
+    "longitude": 76.3241,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-188",
+    "gate_name": "Edapally Road Gate",
+    "railway_section": "Aluva–Ernakulam",
+    "district": "Ernakulam",
+    "latitude": 10.0218,
+    "longitude": 76.3094,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-189",
+    "gate_name": "Ernakulam North Gate",
+    "railway_section": "Aluva–Ernakulam",
+    "district": "Ernakulam",
+    "latitude": 9.9924,
+    "longitude": 76.2951,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-190",
+    "gate_name": "Ernakulam Junction Gate",
+    "railway_section": "Aluva–Ernakulam",
+    "district": "Ernakulam",
+    "latitude": 9.9818,
+    "longitude": 76.2998,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-191",
+    "gate_name": "Ernakulam South Gate",
+    "railway_section": "Ernakulam–Alappuzha",
+    "district": "Ernakulam",
+    "latitude": 9.9721,
+    "longitude": 76.3041,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-192",
+    "gate_name": "Ernakulam Town Gate",
+    "railway_section": "Ernakulam–Alappuzha",
+    "district": "Ernakulam",
+    "latitude": 9.9648,
+    "longitude": 76.3098,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-193",
+    "gate_name": "Tripunithura Road Gate",
+    "railway_section": "Ernakulam–Alappuzha",
+    "district": "Ernakulam",
+    "latitude": 9.9418,
+    "longitude": 76.3214,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-194",
+    "gate_name": "Perumbavoor Town Gate",
+    "railway_section": "Ernakulam–Perumbavoor",
+    "district": "Ernakulam",
+    "latitude": 10.1092,
+    "longitude": 76.4748,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-195",
+    "gate_name": "Perumbavoor North Gate",
+    "railway_section": "Ernakulam–Perumbavoor",
+    "district": "Ernakulam",
+    "latitude": 10.1178,
+    "longitude": 76.4691,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-196",
+    "gate_name": "Perumbavoor South Gate",
+    "railway_section": "Ernakulam–Perumbavoor",
+    "district": "Ernakulam",
+    "latitude": 10.1008,
+    "longitude": 76.4808,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-197",
+    "gate_name": "Muvattupuzha Road Gate",
+    "railway_section": "Ernakulam–Perumbavoor",
+    "district": "Ernakulam",
+    "latitude": 9.9834,
+    "longitude": 76.5781,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-198",
+    "gate_name": "Kothamangalam Gate",
+    "railway_section": "Ernakulam–Perumbavoor",
+    "district": "Ernakulam",
+    "latitude": 10.0598,
+    "longitude": 76.6248,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-199",
+    "gate_name": "Cherthala Station Gate",
+    "railway_section": "Ernakulam–Alappuzha",
+    "district": "Alappuzha",
+    "latitude": 9.6834,
+    "longitude": 76.3372,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-200",
+    "gate_name": "Cherthala North Gate",
+    "railway_section": "Ernakulam–Alappuzha",
+    "district": "Alappuzha",
+    "latitude": 9.6931,
+    "longitude": 76.3321,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-201",
+    "gate_name": "Cherthala South Gate",
+    "railway_section": "Ernakulam–Alappuzha",
+    "district": "Alappuzha",
+    "latitude": 9.6721,
+    "longitude": 76.3412,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-202",
+    "gate_name": "Cherthala East Gate",
+    "railway_section": "Ernakulam–Alappuzha",
+    "district": "Alappuzha",
+    "latitude": 9.6648,
+    "longitude": 76.3471,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-203",
+    "gate_name": "Cherthala West Gate",
+    "railway_section": "Ernakulam–Alappuzha",
+    "district": "Alappuzha",
+    "latitude": 9.6578,
+    "longitude": 76.3528,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-204",
+    "gate_name": "Mararikulam Road Gate",
+    "railway_section": "Ernakulam–Alappuzha",
+    "district": "Alappuzha",
+    "latitude": 9.5841,
+    "longitude": 76.3441,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-205",
+    "gate_name": "Mararikulam North Gate",
+    "railway_section": "Ernakulam–Alappuzha",
+    "district": "Alappuzha",
+    "latitude": 9.5918,
+    "longitude": 76.3388,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-206",
+    "gate_name": "Alappuzha Station Gate",
+    "railway_section": "Ernakulam–Alappuzha",
+    "district": "Alappuzha",
+    "latitude": 9.4984,
+    "longitude": 76.3388,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-207",
+    "gate_name": "Alappuzha North Gate",
+    "railway_section": "Ernakulam–Alappuzha",
+    "district": "Alappuzha",
+    "latitude": 9.5081,
+    "longitude": 76.3341,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-208",
+    "gate_name": "Alappuzha South Gate",
+    "railway_section": "Alappuzha–Kayamkulam",
+    "district": "Alappuzha",
+    "latitude": 9.4881,
+    "longitude": 76.3432,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-209",
+    "gate_name": "Alappuzha East Gate",
+    "railway_section": "Alappuzha–Kayamkulam",
+    "district": "Alappuzha",
+    "latitude": 9.4808,
+    "longitude": 76.3491,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-210",
+    "gate_name": "Punnapra Road Gate",
+    "railway_section": "Alappuzha–Kayamkulam",
+    "district": "Alappuzha",
+    "latitude": 9.4584,
+    "longitude": 76.3584,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-211",
+    "gate_name": "Ambalappuzha Road Gate",
+    "railway_section": "Alappuzha–Kayamkulam",
+    "district": "Alappuzha",
+    "latitude": 9.3934,
+    "longitude": 76.3731,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-212",
+    "gate_name": "Ambalappuzha North Gate",
+    "railway_section": "Alappuzha–Kayamkulam",
+    "district": "Alappuzha",
+    "latitude": 9.4014,
+    "longitude": 76.3678,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-213",
+    "gate_name": "Ambalappuzha South Gate",
+    "railway_section": "Alappuzha–Kayamkulam",
+    "district": "Alappuzha",
+    "latitude": 9.3854,
+    "longitude": 76.3784,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-214",
+    "gate_name": "Haripad Town Gate",
+    "railway_section": "Alappuzha–Kayamkulam",
+    "district": "Alappuzha",
+    "latitude": 9.2961,
+    "longitude": 76.4718,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-215",
+    "gate_name": "Haripad North Gate",
+    "railway_section": "Alappuzha–Kayamkulam",
+    "district": "Alappuzha",
+    "latitude": 9.3058,
+    "longitude": 76.4671,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-216",
+    "gate_name": "Haripad South Gate",
+    "railway_section": "Alappuzha–Kayamkulam",
+    "district": "Alappuzha",
+    "latitude": 9.2864,
+    "longitude": 76.4768,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-217",
+    "gate_name": "Haripad East Gate",
+    "railway_section": "Alappuzha–Kayamkulam",
+    "district": "Alappuzha",
+    "latitude": 9.2784,
+    "longitude": 76.4824,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-218",
+    "gate_name": "Kayamkulam Junction Gate",
+    "railway_section": "Alappuzha–Kayamkulam",
+    "district": "Alappuzha",
+    "latitude": 9.1752,
+    "longitude": 76.5051,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-219",
+    "gate_name": "Kayamkulam North Gate",
+    "railway_section": "Alappuzha–Kayamkulam",
+    "district": "Alappuzha",
+    "latitude": 9.1852,
+    "longitude": 76.4991,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-220",
+    "gate_name": "Kayamkulam South Gate",
+    "railway_section": "Kayamkulam–Kollam",
+    "district": "Alappuzha",
+    "latitude": 9.1651,
+    "longitude": 76.5111,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-221",
+    "gate_name": "Kayamkulam East Gate",
+    "railway_section": "Kayamkulam–Kollam",
+    "district": "Alappuzha",
+    "latitude": 9.1571,
+    "longitude": 76.5171,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-222",
+    "gate_name": "Kottayam Station Gate",
+    "railway_section": "Ernakulam–Kottayam",
+    "district": "Kottayam",
+    "latitude": 9.5918,
+    "longitude": 76.5221,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-223",
+    "gate_name": "Kottayam North Gate",
+    "railway_section": "Ernakulam–Kottayam",
+    "district": "Kottayam",
+    "latitude": 9.6014,
+    "longitude": 76.5172,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-224",
+    "gate_name": "Kottayam South Gate",
+    "railway_section": "Kottayam–Changanacherry",
+    "district": "Kottayam",
+    "latitude": 9.5821,
+    "longitude": 76.5271,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-225",
+    "gate_name": "Kottayam East Gate",
+    "railway_section": "Kottayam–Changanacherry",
+    "district": "Kottayam",
+    "latitude": 9.5748,
+    "longitude": 76.5328,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-226",
+    "gate_name": "Kottayam West Gate",
+    "railway_section": "Ernakulam–Kottayam",
+    "district": "Kottayam",
+    "latitude": 9.6081,
+    "longitude": 76.5118,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-227",
+    "gate_name": "Ettumanoor Town Gate",
+    "railway_section": "Ernakulam–Kottayam",
+    "district": "Kottayam",
+    "latitude": 9.6764,
+    "longitude": 76.5581,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-228",
+    "gate_name": "Ettumanoor North Gate",
+    "railway_section": "Ernakulam–Kottayam",
+    "district": "Kottayam",
+    "latitude": 9.6848,
+    "longitude": 76.5524,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-229",
+    "gate_name": "Ettumanoor South Gate",
+    "railway_section": "Ernakulam–Kottayam",
+    "district": "Kottayam",
+    "latitude": 9.6681,
+    "longitude": 76.5638,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-230",
+    "gate_name": "Vaikom Road Gate",
+    "railway_section": "Ernakulam–Kottayam",
+    "district": "Kottayam",
+    "latitude": 9.7514,
+    "longitude": 76.3941,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-231",
+    "gate_name": "Changanacherry Station Gate",
+    "railway_section": "Kottayam–Changanacherry",
+    "district": "Kottayam",
+    "latitude": 9.4441,
+    "longitude": 76.5394,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-232",
+    "gate_name": "Changanacherry North Gate",
+    "railway_section": "Kottayam–Changanacherry",
+    "district": "Kottayam",
+    "latitude": 9.4541,
+    "longitude": 76.5342,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-233",
+    "gate_name": "Changanacherry South Gate",
+    "railway_section": "Changanacherry–Thiruvalla",
+    "district": "Kottayam",
+    "latitude": 9.4341,
+    "longitude": 76.5448,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-234",
+    "gate_name": "Changanacherry East Gate",
+    "railway_section": "Changanacherry–Thiruvalla",
+    "district": "Kottayam",
+    "latitude": 9.4261,
+    "longitude": 76.5508,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-235",
+    "gate_name": "Chingavanam Road Gate",
+    "railway_section": "Ernakulam–Kottayam",
+    "district": "Kottayam",
+    "latitude": 9.5192,
+    "longitude": 76.5381,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-236",
+    "gate_name": "Chingavanam North Gate",
+    "railway_section": "Ernakulam–Kottayam",
+    "district": "Kottayam",
+    "latitude": 9.5271,
+    "longitude": 76.5328,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-237",
+    "gate_name": "Thiruvalla Station Gate",
+    "railway_section": "Changanacherry–Thiruvalla",
+    "district": "Pathanamthitta",
+    "latitude": 9.3841,
+    "longitude": 76.5714,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-238",
+    "gate_name": "Thiruvalla North Gate",
+    "railway_section": "Changanacherry–Thiruvalla",
+    "district": "Pathanamthitta",
+    "latitude": 9.3942,
+    "longitude": 76.5662,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-239",
+    "gate_name": "Thiruvalla South Gate",
+    "railway_section": "Thiruvalla–Chengannur",
+    "district": "Pathanamthitta",
+    "latitude": 9.3741,
+    "longitude": 76.5768,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-240",
+    "gate_name": "Thiruvalla East Gate",
+    "railway_section": "Thiruvalla–Chengannur",
+    "district": "Pathanamthitta",
+    "latitude": 9.3661,
+    "longitude": 76.5828,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-241",
+    "gate_name": "Puthuppally Road Gate",
+    "railway_section": "Thiruvalla–Chengannur",
+    "district": "Pathanamthitta",
+    "latitude": 9.3488,
+    "longitude": 76.5948,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-242",
+    "gate_name": "Chengannur Station Gate",
+    "railway_section": "Thiruvalla–Chengannur",
+    "district": "Pathanamthitta",
+    "latitude": 9.3192,
+    "longitude": 76.6148,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-243",
+    "gate_name": "Chengannur North Gate",
+    "railway_section": "Thiruvalla–Chengannur",
+    "district": "Pathanamthitta",
+    "latitude": 9.3292,
+    "longitude": 76.6098,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-244",
+    "gate_name": "Chengannur South Gate",
+    "railway_section": "Chengannur–Harippad",
+    "district": "Pathanamthitta",
+    "latitude": 9.3092,
+    "longitude": 76.6201,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-245",
+    "gate_name": "Chengannur East Gate",
+    "railway_section": "Chengannur–Harippad",
+    "district": "Pathanamthitta",
+    "latitude": 9.3014,
+    "longitude": 76.6258,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-246",
+    "gate_name": "Karunagappally Town Gate",
+    "railway_section": "Kayamkulam–Karunagappally",
+    "district": "Kollam",
+    "latitude": 9.0581,
+    "longitude": 76.5301,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-247",
+    "gate_name": "Karunagappally North Gate",
+    "railway_section": "Kayamkulam–Karunagappally",
+    "district": "Kollam",
+    "latitude": 9.0681,
+    "longitude": 76.5241,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-248",
+    "gate_name": "Karunagappally South Gate",
+    "railway_section": "Karunagappally–Kollam",
+    "district": "Kollam",
+    "latitude": 9.0481,
+    "longitude": 76.5361,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-249",
+    "gate_name": "Karunagappally East Gate",
+    "railway_section": "Karunagappally–Kollam",
+    "district": "Kollam",
+    "latitude": 9.0401,
+    "longitude": 76.5421,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-250",
+    "gate_name": "Sakthikulangara Road Gate",
+    "railway_section": "Karunagappally–Kollam",
+    "district": "Kollam",
+    "latitude": 9.0198,
+    "longitude": 76.5561,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-251",
+    "gate_name": "Kundara Town Gate",
+    "railway_section": "Karunagappally–Kollam",
+    "district": "Kollam",
+    "latitude": 8.9877,
+    "longitude": 76.6882,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-252",
+    "gate_name": "Kundara North Gate",
+    "railway_section": "Karunagappally–Kollam",
+    "district": "Kollam",
+    "latitude": 8.9972,
+    "longitude": 76.6831,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-253",
+    "gate_name": "Kundara South Gate",
+    "railway_section": "Karunagappally–Kollam",
+    "district": "Kollam",
+    "latitude": 8.9784,
+    "longitude": 76.6934,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-254",
+    "gate_name": "Kundara East Gate",
+    "railway_section": "Karunagappally–Kollam",
+    "district": "Kollam",
+    "latitude": 8.9701,
+    "longitude": 76.6991,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-255",
+    "gate_name": "Kollam Junction Gate",
+    "railway_section": "Karunagappally–Kollam",
+    "district": "Kollam",
+    "latitude": 8.8934,
+    "longitude": 76.6141,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-256",
+    "gate_name": "Kollam North Gate",
+    "railway_section": "Karunagappally–Kollam",
+    "district": "Kollam",
+    "latitude": 8.9031,
+    "longitude": 76.6091,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-257",
+    "gate_name": "Kollam South Gate",
+    "railway_section": "Kollam–Varkala",
+    "district": "Kollam",
+    "latitude": 8.8831,
+    "longitude": 76.6191,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-258",
+    "gate_name": "Kollam East Gate",
+    "railway_section": "Kollam–Varkala",
+    "district": "Kollam",
+    "latitude": 8.8751,
+    "longitude": 76.6248,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-259",
+    "gate_name": "Kollam West Gate",
+    "railway_section": "Kollam–Varkala",
+    "district": "Kollam",
+    "latitude": 8.8678,
+    "longitude": 76.6304,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-260",
+    "gate_name": "Perinad Road Gate",
+    "railway_section": "Kollam–Varkala",
+    "district": "Kollam",
+    "latitude": 8.8624,
+    "longitude": 76.6271,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-261",
+    "gate_name": "Eravipuram Gate",
+    "railway_section": "Kollam–Varkala",
+    "district": "Kollam",
+    "latitude": 8.8731,
+    "longitude": 76.6221,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-262",
+    "gate_name": "Eravipuram North Gate",
+    "railway_section": "Kollam–Varkala",
+    "district": "Kollam",
+    "latitude": 8.8808,
+    "longitude": 76.6168,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-263",
+    "gate_name": "Punalur Road Gate",
+    "railway_section": "Kollam–Sengottai Branch",
+    "district": "Kollam",
+    "latitude": 9.0082,
+    "longitude": 76.9241,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-264",
+    "gate_name": "Punalur North Gate",
+    "railway_section": "Kollam–Sengottai Branch",
+    "district": "Kollam",
+    "latitude": 9.0168,
+    "longitude": 76.9184,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-265",
+    "gate_name": "Punalur South Gate",
+    "railway_section": "Kollam–Sengottai Branch",
+    "district": "Kollam",
+    "latitude": 8.9998,
+    "longitude": 76.9301,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-266",
+    "gate_name": "Varkala Station Gate",
+    "railway_section": "Kollam–Varkala",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.7334,
+    "longitude": 76.7168,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-267",
+    "gate_name": "Varkala North Gate",
+    "railway_section": "Kollam–Varkala",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.7431,
+    "longitude": 76.7112,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-268",
+    "gate_name": "Varkala South Gate",
+    "railway_section": "Varkala–Chirayinkeezhu",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.7238,
+    "longitude": 76.7224,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-269",
+    "gate_name": "Varkala East Gate",
+    "railway_section": "Varkala–Chirayinkeezhu",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.7158,
+    "longitude": 76.7284,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-270",
+    "gate_name": "Kadakkavoor Road Gate",
+    "railway_section": "Varkala–Chirayinkeezhu",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.6924,
+    "longitude": 76.7301,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-271",
+    "gate_name": "Kadakkavoor North Gate",
+    "railway_section": "Varkala–Chirayinkeezhu",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.7014,
+    "longitude": 76.7248,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-272",
+    "gate_name": "Chirayinkeezhu Gate",
+    "railway_section": "Varkala–Chirayinkeezhu",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.6754,
+    "longitude": 76.7361,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-273",
+    "gate_name": "Chirayinkeezhu North Gate",
+    "railway_section": "Varkala–Chirayinkeezhu",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.6838,
+    "longitude": 76.7308,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-274",
+    "gate_name": "Chirayinkeezhu South Gate",
+    "railway_section": "Chirayinkeezhu–Trivandrum",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.6668,
+    "longitude": 76.7418,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-275",
+    "gate_name": "Murukkumpuzha Gate",
+    "railway_section": "Chirayinkeezhu–Trivandrum",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.6481,
+    "longitude": 76.7528,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-276",
+    "gate_name": "Kazhakuttam North Gate",
+    "railway_section": "Chirayinkeezhu–Trivandrum",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.5634,
+    "longitude": 76.8761,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-277",
+    "gate_name": "Kazhakuttam Station Gate",
+    "railway_section": "Chirayinkeezhu–Trivandrum",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.5531,
+    "longitude": 76.8821,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-278",
+    "gate_name": "Kazhakuttam South Gate",
+    "railway_section": "Chirayinkeezhu–Trivandrum",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.5448,
+    "longitude": 76.8884,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-279",
+    "gate_name": "Kazhakuttam East Gate",
+    "railway_section": "Chirayinkeezhu–Trivandrum",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.5368,
+    "longitude": 76.8944,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-280",
+    "gate_name": "Thiruvananthapuram North Gate",
+    "railway_section": "Chirayinkeezhu–Trivandrum",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.4954,
+    "longitude": 76.9441,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-281",
+    "gate_name": "Thiruvananthapuram Central Gate",
+    "railway_section": "Chirayinkeezhu–Trivandrum",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.4858,
+    "longitude": 76.9491,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-282",
+    "gate_name": "Thiruvananthapuram South Gate",
+    "railway_section": "Trivandrum–Kochuveli",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.4754,
+    "longitude": 76.9548,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-283",
+    "gate_name": "Thiruvananthapuram East Gate",
+    "railway_section": "Trivandrum–Kochuveli",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.4674,
+    "longitude": 76.9608,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-284",
+    "gate_name": "Nemom Station Gate",
+    "railway_section": "Trivandrum–Kochuveli",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.4624,
+    "longitude": 76.9781,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-285",
+    "gate_name": "Nemom North Gate",
+    "railway_section": "Trivandrum–Kochuveli",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.4701,
+    "longitude": 76.9724,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-286",
+    "gate_name": "Nemom South Gate",
+    "railway_section": "Trivandrum–Kochuveli",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.4548,
+    "longitude": 76.9838,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-287",
+    "gate_name": "Kochuveli Terminal Gate",
+    "railway_section": "Trivandrum–Kochuveli",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.4521,
+    "longitude": 76.9812,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-288",
+    "gate_name": "Kochuveli North Gate",
+    "railway_section": "Trivandrum–Kochuveli",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.4598,
+    "longitude": 76.9758,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-289",
+    "gate_name": "Balaramapuram Road Gate",
+    "railway_section": "Trivandrum–Neyyattinkara",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.3872,
+    "longitude": 77.0091,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-290",
+    "gate_name": "Balaramapuram North Gate",
+    "railway_section": "Trivandrum–Neyyattinkara",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.3958,
+    "longitude": 77.0038,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-291",
+    "gate_name": "Neyyattinkara Town Gate",
+    "railway_section": "Trivandrum–Neyyattinkara",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.4024,
+    "longitude": 77.0862,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-292",
+    "gate_name": "Neyyattinkara North Gate",
+    "railway_section": "Trivandrum–Neyyattinkara",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.4124,
+    "longitude": 77.0812,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-293",
+    "gate_name": "Neyyattinkara South Gate",
+    "railway_section": "Trivandrum–Neyyattinkara",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.3924,
+    "longitude": 77.0914,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-294",
+    "gate_name": "Neyyattinkara East Gate",
+    "railway_section": "Trivandrum–Neyyattinkara",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.3844,
+    "longitude": 77.0968,
+    "status": "unknown",
+    "estimated_closure_time": null
+  },
+  {
+    "gate_id": "LC-295",
+    "gate_name": "Parassala Road Gate",
+    "railway_section": "Trivandrum–Neyyattinkara",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.3524,
+    "longitude": 77.1348,
+    "status": "unknown",
+    "estimated_closure_time": null
+  }
+]
