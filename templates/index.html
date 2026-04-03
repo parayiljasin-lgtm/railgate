@@ -1,1 +1,139 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RailGate — Kannur Level Crossings</title>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+
+<!-- CSS loaded from static folder by Flask -->
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<header class="header">
+  <div>
+    <div class="brand-name">RAIL<em>GATE</em></div>
+    <div class="brand-sub">Kannur District · Level Crossings</div>
+  </div>
+  <div class="hdr-r">
+    <div id="hdr-clk" style="font-family:'IBM Plex Mono',monospace;font-size:0.78rem;color:var(--mt);background:var(--sf2);border:1px solid var(--bd);border-radius:8px;padding:5px 11px;min-width:90px;text-align:center;"></div>
+    <button class="hbtn" id="langBtn" onclick="toggleLang()">EN / ML</button>
+    <button class="hbtn" id="notifBtn" onclick="toggleNotif()">🔔 Alerts</button>
+    <div class="pill-live"><div class="ldot"></div>LIVE</div>
+  </div>
+</header>
+<div class="rail"></div>
+
+<!-- ═══ SEARCH PAGE ═══ -->
+<div id="pg-s">
+  <div class="eyebrow">Kannur District · Shoranur–Mangalore Railway Line</div>
+  <h1 class="h1">Find Your <b>Level Crossing</b></h1>
+  <p class="hsub" id="hsub">Search by gate name, road, area or village. Filter by taluk to narrow results.</p>
+
+  <div class="scard">
+    <!-- Live clock inside search card -->
+    <div class="clock-box">
+      <div>
+        <div class="clock-label">Current Time</div>
+        <div id="hero-clk"></div>
+        <div id="hero-date"></div>
+      </div>
+      <div style="text-align:right;">
+        <div class="clock-label">Auto-refresh</div>
+        <div style="font-family:'IBM Plex Mono',monospace;font-size:0.78rem;color:var(--gn);">Every 30s</div>
+        <div style="font-size:0.62rem;color:var(--mt);">Shoranur–Mangalore Line</div>
+      </div>
+    </div>
+
+    <div class="srow">
+      <div class="sfield" style="flex:2;">
+        <span class="ico">🔍</span>
+        <input class="sinp" id="qi" type="text"
+          placeholder="Gate name, road, village, area..."
+          onkeydown="if(event.key==='Enter')doSearch()">
+      </div>
+      <div class="sfield" style="flex:1;">
+        <select class="ssel" id="qt">
+          <option value="all">All Taluks</option>
+          <option value="Payyannur">Payyannur Taluk</option>
+          <option value="Kannur">Kannur Taluk</option>
+          <option value="Thalassery">Thalassery Taluk</option>
+          <option value="Irikkur">Irikkur Taluk</option>
+          <option value="Mahe">Mahe</option>
+        </select>
+      </div>
+    </div>
+    <button class="sgo" onclick="doSearch()">
+      <span>🔍</span><span id="btn-txt">SEARCH LEVEL CROSSINGS</span>
+    </button>
+  </div>
+
+  <div class="qtags">
+    <span class="qt" onclick="qs('Payyannur')">Payyannur</span>
+    <span class="qt" onclick="qs('Kannur Town')">Kannur Town</span>
+    <span class="qt" onclick="qs('Thalassery')">Thalassery</span>
+    <span class="qt" onclick="qs('Mahe')">Mahe</span>
+    <span class="qt" onclick="qs('Pappinisseri')">Pappinisseri</span>
+    <span class="qt" onclick="qs('Kannapuram')">Kannapuram</span>
+    <span class="qt" onclick="qs('Iritty')">Iritty</span>
+    <span class="qt" onclick="qs('Muzhappilangad')">Muzhappilangad</span>
+    <span class="qt rd" onclick="qclosed()">🔴 Closed Now</span>
+    <span class="qt gn" onclick="qopen()">🟢 Open Now</span>
+  </div>
+
+  <div class="ticker">
+    <div class="ticker-hdr">
+      <span>Live Gate Status</span>
+      <span id="tkt"></span>
+    </div>
+    <div class="ticker-body" id="tkbody"></div>
+  </div>
+
+  <div class="hstats">
+    <div class="hst"><div class="hst-n" style="color:var(--ac);" id="hs-t">47</div><div class="hst-l">Total Gates</div></div>
+    <div class="hst"><div class="hst-n" style="color:var(--gn);" id="hs-o">—</div><div class="hst-l">Open Now</div></div>
+    <div class="hst"><div class="hst-n" style="color:var(--rd);" id="hs-c">—</div><div class="hst-l">Closed</div></div>
+    <div class="hst"><div class="hst-n" style="color:var(--bl);">5</div><div class="hst-l">Taluks</div></div>
+  </div>
+</div>
+
+<!-- ═══ RESULTS PAGE ═══ -->
+<div id="pg-r">
+  <div class="rtop">
+    <div class="rleft">
+      <button class="backbtn" onclick="goBack()">← Back</button>
+      <div class="rtitle" id="rtitle">Results</div>
+    </div>
+    <div style="display:flex;align-items:center;gap:10px;">
+      <div id="res-clk"></div>
+      <span class="rcnt" id="rcnt">0 gates</span>
+    </div>
+  </div>
+  <div class="rfbar">
+    <button class="ftab on" id="ft-all"    onclick="setF('all',this)">All</button>
+    <button class="ftab"    id="ft-open"   onclick="setF('open',this)">🟢 Open</button>
+    <button class="ftab"    id="ft-closed" onclick="setF('closed',this)">🔴 Closed</button>
+    <button class="ftab"    id="ft-favs"   onclick="setF('favs',this)">⭐ Saved</button>
+    <div class="istats">
+      <div class="ist" style="color:var(--gn);">Open   <span id="is-o">—</span></div>
+      <div class="ist" style="color:var(--rd);">Closed <span id="is-c">—</span></div>
+      <div class="ist" style="color:var(--bl);">Trains <span id="is-t">—</span></div>
+    </div>
+  </div>
+  <div class="glist" id="glist"></div>
+</div>
+
+<footer>
+  <div class="fn">RailGate Kannur · 47 Level Crossings · Indian Railways · Auto-refresh 30s</div>
+  <div class="fn" id="clk" style="font-family:'IBM Plex Mono',monospace;"></div>
+</footer>
+
+<div id="toast"></div>
+
+<!-- JavaScript loaded from static folder by Flask -->
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
+
